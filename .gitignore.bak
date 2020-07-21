@@ -1,0 +1,15 @@
+*.project
+.settings
+*.classpath
+*.class
+target
+logs
+webapp
+*.factorypath
+.springBeans
+/hopps-common-parent/hopps-common-core-validation/target/maven-archiver/pom.properties
+/hopps-common-parent/hopps-common-core-microservice/target/maven-archiver/pom.properties
+/hopps-common-parent/hopps-common-core-defaultservice/target/maven-archiver/pom.properties
+org.eclipse.wst.common.project.facet.core.xml
+/hopps-module-parent/module-oms/hopps-module-oms-rest/.settings/org.eclipse.wst.common.project.facet.core.xml
+/hopps-module-parent/module-oms/hopps-module-oms-service/.settings/org.eclipse.wst.common.project.facet.core.xml
