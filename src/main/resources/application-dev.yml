@@ -20,7 +20,7 @@ oss:
   accessKeyId: L
   endPoint: http://oss-cn-hangzhou.aliyuncs.com
   bucketName: byf-bucket
-  accessKeySecret: xdFQfRMpcnkN2A0DZ8IM41AAyjdpQC
+  accessKeySecret: 
 
 mybatis:
   mapper-locations: classpath:com/insurance/mapper/*.xml,classpath:com/insurance/mapper/custom/*.xml
